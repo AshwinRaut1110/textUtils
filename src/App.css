@@ -36,3 +36,34 @@
     transform: rotate(360deg);
   }
 }
+
+/* Dark Mode Color Pallete */
+
+.colorPalette{
+  margin: 0px 10px;
+}
+
+.palettedOptions{
+  height: 45px;
+  width: 45px;
+  border-radius: 30px;
+  outline: none;
+  border: none;
+  margin: 0px 10px;
+}
+
+#blue{
+  background-color: rgb(16 18 57);
+}
+
+#purple{
+  background-color: rgb(67, 0, 69);
+}
+
+#orange{
+  background-color: rgba(255, 128, 0, 0.795);
+}
+
+#black{
+  background-color: rgb(56, 56, 56);
+}
